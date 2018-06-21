@@ -24,7 +24,7 @@
 */
 /* ------------------------------------- */
 /* *. @Import & Reset .................. */
-/* ------------------------------------- */ 
+/* ------------------------------------- */
 /* custom CSS files */
 @import url(font-awesome.min.css);
 @import url(ionicons.min.css);
@@ -38,8 +38,9 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700");
 @import url("https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700");
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300');
 /*
-* http://meyerweb.com/eric/tools/css/reset/ 
+* http://meyerweb.com/eric/tools/css/reset/
 * v2.0 | 20110126
 * License: none (public domain)
 */
@@ -272,7 +273,7 @@ html {
 
 body {
   background: #323a45;
-  font-family: "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
+  font-family: "Sunflower", "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   color: #FFFFFF;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -343,7 +344,7 @@ em, i {
 }
 
 p {
-  font-family: "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
+  font-family: "Sunflower", "Open Sans", "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   margin: 0;
   font-size: 1.4rem;
   line-height: 1.8;
@@ -356,7 +357,7 @@ p.subtitle {
 
 h1, h2, h3, h4, h5, h6 {
   color: #FFFFFF;
-  font-family: Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
+  font-family: "Sunflower", Montserrat, "Helvetica Neue", "Lucida Grande", Arial, Verdana, sans-serif;
   font-weight: 400;
   line-height: 1;
   margin: 0 0 1.5rem 0;
